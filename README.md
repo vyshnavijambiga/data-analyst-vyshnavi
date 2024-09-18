@@ -2,7 +2,7 @@
 overview of two projects
 AWS Data Analytic Platform for The City of Vancouver
 -This comprehensive project demonstrates my ability to design and implement a cloud-based data analytics solution for a large municipal client.
-Key Components:
+-Key Components:
 Implementation of a complete data analytic platform on AWS
 Utilization of various AWS services including S3, Glue, CloudWatch, and KMS
 Focus on security, reliability, and cost optimization
